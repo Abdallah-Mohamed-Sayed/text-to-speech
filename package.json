@@ -1,0 +1,16 @@
+{
+  "name": "text-to-audio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aws-sdk": "^2.1290.0",
+    "copy-paste": "^1.3.0",
+    "googleapis": "^105.0.0"
+  }
+}
